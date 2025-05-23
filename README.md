@@ -69,13 +69,9 @@ else:
     print("The given data cannot be fitted in Poisson Distribution at 1% LOS")
 
 ```
-
- 
-
 # Output : 
 
 ![image](https://github.com/user-attachments/assets/fe454f2c-247c-434f-901a-c253831258ac)
-
 
 # Results
 
